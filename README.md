@@ -7,4 +7,4 @@
 </p>
 
 <h2 align>Hi there! My name is Sherif Alsayed 👋🤓</h2>
-<p> I'm a passionate mobile developer proficient in the latest iterations of Kotlin, Swift, Dart. I have a Bachelor's degree in Computer Science from Cairo University. I have more than six years of experience in mobile development. My main responsibilities revolved around building native android, iOS, flutter mobile apps, testing, debugging apps and developing updates to improve app usability</p>
+<p> I'm a passionate mobile developer proficient in the latest iterations of Kotlin, Swift, Dart. I have a Bachelor's degree in Computer Science from Cairo University. I almost seven years of experience in mobile development. My main responsibilities revolved around building native android, iOS, flutter mobile apps, testing, debugging apps and developing updates to improve app usability</p>
