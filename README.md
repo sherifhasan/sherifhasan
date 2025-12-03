@@ -86,19 +86,14 @@ My expertise includes:
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sherifhasan&show_icons=true&theme=radical&count_private=true" alt="Sherif's GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifhasan&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=sherifhasan&theme=radical&no-frame=false&no-bg=false&margin-w=15)
+  <a href="https://github.com/sherifhasan">
+    <img src="https://github-profile-trophy.vercel.app/?username=sherifhasan&theme=radical&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
