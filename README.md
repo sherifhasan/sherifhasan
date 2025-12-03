@@ -90,13 +90,25 @@ My expertise includes:
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherifhasan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC107&include_all_commits=true&count_private=true"/>
+<!-- GitHub Stats -->
+<a href="https://github.com/sherifhasan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherifhasan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC107&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
   
-<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=sherifhasan&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FFC107&currStreakLabel=FF6B9D"/>
+<!-- GitHub Streak -->
+<a href="https://github.com/sherifhasan">
+  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=sherifhasan&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FFC107&currStreakLabel=FF6B9D" alt="GitHub Streak" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifhasan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D"/>
+<!-- Top Languages -->
+<a href="https://github.com/sherifhasan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifhasan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D" alt="Top Languages" />
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sherifhasan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<!-- GitHub Trophies -->
+<a href="https://github.com/sherifhasan">
+  <img src="https://github-profile-trophy.vercel.app/?username=sherifhasan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</a>
 
 </div>
 
