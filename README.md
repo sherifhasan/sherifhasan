@@ -41,22 +41,48 @@ My expertise includes:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### Mobile Development
+### 💻 Programming Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Tools & Technologies
+### 🌐 Web Development
+![Flutter Web](https://img.shields.io/badge/Flutter%20Web-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🏗️ Architecture & State Management
+![Bloc](https://img.shields.io/badge/Bloc-8C4DFF?style=for-the-badge&logo=bloc&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-FF6B6B?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00D9FF?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-FF6B9D?style=for-the-badge)
+
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST](https://img.shields.io/badge/REST-FF6B6B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+
+**Flutter Ecosystem:**
+- Hive • Dio • Intl • Freezed • Auto_route • Go_router • Injectable • GetIt • Mocktail • Melos
+
+**Analytics & Monitoring:**
+- Firebase • Bloomreach • UXCam
+
+### 🧪 Testing
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-4CAF50?style=for-the-badge)
+![Widget Testing](https://img.shields.io/badge/Widget%20Testing-2196F3?style=for-the-badge)
+![UI Testing](https://img.shields.io/badge/UI%20Testing-FF9800?style=for-the-badge)
 
 ---
 
