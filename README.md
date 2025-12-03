@@ -129,8 +129,12 @@ My expertise includes:
 
 **Let's build something amazing together!** 🚀
 
-![Snake animation](https://raw.githubusercontent.com/sherifhasan/sherifhasan/output/github-contribution-grid-snake.svg)
+<div align="center">
 
-*Note: The snake animation updates daily based on your GitHub contributions*
+<img src="https://raw.githubusercontent.com/sherifhasan/sherifhasan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+*Note: The snake animation will be generated automatically by GitHub Actions. You can manually trigger it by going to Actions → "Generate Snake Animation" → Run workflow. It updates daily based on your GitHub contributions.*
 
 </div>
